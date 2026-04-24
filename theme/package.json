@@ -1,0 +1,36 @@
+{
+  "name": "slidev-theme-nws",
+  "version": "1.0.1",
+  "type": "module",
+  "keywords": [
+    "slidev-theme",
+    "slidev"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export",
+    "screenshot": "slidev export --format png"
+  },
+  "dependencies": {
+    "@slidev/types": "^52.14.1"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^52.14.1",
+    "playwright-chromium": "^1.58.2"
+  },
+  "//": "Learn more: https://sli.dev/guide/write-theme.html",
+  "slidev": {
+    "colorSchema": "dark",
+    "defaults": {
+      "fonts": {
+        "sans": "Montserrat",
+        "weights": "100,300,500,700",
+        "mono": "JetBrains Mono"
+      }
+    }
+  }
+}

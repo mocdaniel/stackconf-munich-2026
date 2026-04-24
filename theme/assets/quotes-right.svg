@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-b679d043-8e8e-44fd-ac70-d5d767b3b913" data-name="uuid-63b3726e-9e48-4857-bd75-25f1c4c63791" xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .uuid-ae79ca30-d248-45a1-a798-d0ccc97678a0 {
+        fill: none;
+        stroke: #1efbd0;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <polygon class="uuid-ae79ca30-d248-45a1-a798-d0ccc97678a0" points="317.27 125.15 228 249.68 317.27 374.85 405.91 374.85 319.17 249.68 405.91 125.15 317.27 125.15"/>
+  <polygon class="uuid-ae79ca30-d248-45a1-a798-d0ccc97678a0" points="182.34 125.15 93.06 249.68 182.34 374.85 270.98 374.85 184.24 249.68 270.98 125.15 182.34 125.15"/>
+</svg>

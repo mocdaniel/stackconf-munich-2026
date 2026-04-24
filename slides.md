@@ -1,5 +1,5 @@
 ---
-theme: nws
+theme: ./theme
 # some information about your slides (markdown enabled)
 title: Real-Time Threat Detection with Falco
 info: |
